@@ -67,6 +67,8 @@ cd urgent-email-viewer
 pip install --upgrade google-auth google-auth-oauthlib google-api-python-client PyQt5
 ```
 
+---
+
 ### ▶️ Step 5: Run the app
 
 ```bash
