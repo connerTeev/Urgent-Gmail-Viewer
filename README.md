@@ -27,7 +27,7 @@ A minimalist desktop application built with Python and PyQt5 to help you stay on
 ### 🐙 Step 1: Clone or download the repository
 
 ```bash
-git clone https://github.com/connerTeev/urgent-Gmail-Viewer.git
+git clone https://github.com/connerTeev/Urgent-Gmail-Viewer.git
 cd urgent-email-viewer
 ```
 
